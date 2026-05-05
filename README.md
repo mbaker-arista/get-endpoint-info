@@ -6,7 +6,7 @@ A python script which queries a CloudVision instance for historical information 
 
 - Python 3.11+ recommended
 - Access to an Arista CloudVision instance
-- A CloudVision API token with permission to read inventory/configlets and write workspaces or Studio inputs
+- A CloudVision API token with permission to read inventory
 
 ## Install
 
